@@ -1,2 +1,5 @@
-# DSB-Batch11
+# Data Science Bootcamp 11
 My data science and analytics projects in data sci bootcamp
+
+## My personal project 
+1. Pao Ying Chub - R
